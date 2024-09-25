@@ -25,6 +25,11 @@ module.exports = {
       colors: {
         primary: "#141414",
         gray: "#999999",
+        navlinks: "#BFBFBF",
+        lightcolor: "#1A1A1A",
+      },
+      borderColor: {
+        light: "#1F1F1F",
       },
     },
   },
